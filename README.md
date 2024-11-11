@@ -1,3 +1,6 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17023265&assignment_repo_type=AssignmentRepo)
+# SE_Day1
+
 Quiz 1
 Software engineering can be described as a planned and controlled profession that focused on the systematic manufacture, operation and management of software. It is the practice of making software development decisions based on engineering principles to make the software solution more dependable, optimised and maintainable as the scale of the problem is solved through the same. These activities include coding, testing, project management, system design, and quality assurance to guarantee that developed software products fulfill required characteristics and delivered on schedule and to cost.
 
